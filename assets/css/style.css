@@ -1,0 +1,64 @@
+body {
+padding:0;
+margin:0;
+}
+#skip-to-main-content {
+display:none;
+}
+#main-content {
+padding:0;
+margin:0;
+}
+#top-header {
+background-color:gray;
+display:flex;
+align-items:center;
+padding:0;
+margin:0;
+list-style:none;
+flex-wrap:wrap;
+text-wrap:nowrap;
+}
+#bottom-header {
+background-colour:red;
+display:flex;
+align-items:center;
+padding:0;
+margin:0;
+list-style:none;
+flex-wrap:wrap;
+text-wrap:nowrap;
+}
+#page-main {
+background-color:gray;
+}
+#top-footer {
+background-color:blue;
+display:flex;
+align-items:center;
+padding:0;
+margin:0;
+list-style:none;
+flex-wrap:wrap;
+text-wrap:nowrap;
+}
+#bottom-footer {
+background-color:darkblue;
+display:flex;
+align-items:center;
+padding:0;
+margin:0;
+list-style:none;
+flex-wrap:wrap;
+text-wrap:nowrap;
+}
+#th-supporters-nav {
+display:flex;
+align-items:center;
+padding:0;
+margin:0;
+list-style:none;
+flex-wrap:wrap;
+text-wrap:nowrap;
+align-self:right;
+}
